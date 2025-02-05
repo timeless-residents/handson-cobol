@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cob": "COBOL",
+        "*.cbl": "COBOL"
+    },
+    "coboleditor.tab_stops": "4,8,12,16",
+    "coboleditor.margins": "7,11,15,19"
+}
